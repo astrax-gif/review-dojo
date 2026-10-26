@@ -1,8 +1,3 @@
-# Review Dojo README (Hacker Edition)
-
-Copy everything inside the code block below, then paste it into the top-level README.md in VS Code. Press Ctrl+A to select the old text, Ctrl+V to paste, and Ctrl+S to save.
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a2e0a&height=200&section=header&text=REVIEW_DOJO&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=%3E%20train%20your%20code%20review%20skills&descAlignY=68&descSize=20&descColor=00ff41" alt="Review Dojo banner" width="100%" />
