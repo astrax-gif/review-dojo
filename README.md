@@ -1,18 +1,23 @@
+# Review Dojo README (Hacker Edition)
+
+Copy everything inside the code block below, then paste it into the top-level README.md in VS Code. Press Ctrl+A to select the old text, Ctrl+V to paste, and Ctrl+S to save.
+
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Review%20Dojo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Train%20your%20code%20review%20skills&descAlignY=58&descSize=20" alt="Review Dojo banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a2e0a&height=200&section=header&text=REVIEW_DOJO&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=%3E%20train%20your%20code%20review%20skills&descAlignY=68&descSize=20&descColor=00ff41" alt="Review Dojo banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Spot+the+bug+before+it+ships.;Review+realistic+pull+requests.;Catch+security+holes+and+messy+design.;Get+scored.+Learn+why.+Level+up." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=%3E+scanning+pull+request...;%3E+bug+detected+in+line+42;%3E+security+hole+found;%3E+review+complete.+score%3A+95%25" alt="Typing animation" />
 </a>
 
 <br/>
 
-![Status](https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/frontend-TypeScript%20%2B%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Backend](https://img.shields.io/badge/backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Database](https://img.shields.io/badge/database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/status-in%20development-00ff41?style=for-the-badge&labelColor=000000)
+![License](https://img.shields.io/badge/license-MIT-00ff41?style=for-the-badge&labelColor=000000)
+![Frontend](https://img.shields.io/badge/frontend-TypeScript%20%2B%20React-00ff41?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=000000)
+![Backend](https://img.shields.io/badge/backend-Python-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=000000)
+![Database](https://img.shields.io/badge/database-PostgreSQL-00ff41?style=for-the-badge&logo=postgresql&logoColor=00ff41&labelColor=000000)
 
 </div>
 
@@ -182,6 +187,6 @@ Built by a software engineering student at the University of Europe for Applied 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2e0a,100:000000&height=100&section=footer" alt="footer" width="100%" />
 
 </div>
